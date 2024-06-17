@@ -1,0 +1,8 @@
+﻿{
+  "ShortCutList_V2": {
+    "CMD": "cmd",
+    "PowerShell": "powershell",
+    "PowerShell ISE": "powershell_ise",
+    "Hosts": "notepad %windir%\\System32\\Drivers\\etc\\hosts"
+  }
+}
